@@ -24,7 +24,7 @@ except Exception as exc:
 
 setup(
     name = 'coverage_pth',
-    version = '0.0.1',
+    version = '0.0.2.pre0.saltstack0',
     description = 'Coverage PTH file to enable coverage at the virtualenv level',
     #packages = '..',
     #include_pacakage_date=True,
